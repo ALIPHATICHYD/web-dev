@@ -83,7 +83,7 @@ We welcome contributions from the community! To contribute, please follow these 
 
 5. **Commit your changes:**
    ```bash
-   git commit -m "Description of your changes"
+   git commit -m "Your commit message"
    ```
 
 6. **Push to your fork:**
